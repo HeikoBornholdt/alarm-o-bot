@@ -39,4 +39,4 @@ Im Ordner `ended/available` finden sich einige Beispiel-Skripte, welche per Syml
 	echo 21 > /sys/class/gpio/export
 	# Alarm-o-Bot starten
     cd alarm-o-bot/
-    ./alarm-o-bot.sh /sys/class/gpio/gpio21/value
+    ./alarm-o-bot.sh -i /sys/class/gpio/gpio21/value
