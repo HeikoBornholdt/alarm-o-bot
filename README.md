@@ -10,6 +10,7 @@ Für folgende Aufgaben sind bereits Skripte vorhanden:
 Das Ladegerät von Swissphone besitzt auf der Rückseite eine Buchse, mit welcher es möglich ist, über Alarmierungen bzw. Quittierungen benachrichtigt zu werden (siehe Seite 3, http://www.swissphone.com/wp-content/uploads/2013/11/MAN-psB14_ALGRA-Expert_DeEnFr_v1_0343235.pdf)
 
 Die Verkabelung ist wie auf dem Schaltplan vorzunehmen
+
 ![Schaltplan](https://raw.githubusercontent.com/heikobornholdt/alarm-o-bot/master/Schaltplan.png)
 
 Der Alarm-o-Bot kennt zwei Arten von Ereignissen:
